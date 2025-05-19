@@ -1,16 +1,16 @@
 [
   {
     "id": "57400d6ca3f025be",
-    "username": "softech",
-    "password": "20200220",
+    "username": "123456",
+    "password": "123456",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
+    "id": "57400d6ca3f025be",
     "username": "user2",
     "password": "pass2",
-    "expiresAt": "2025-11-30",
+    "expiresAt": "2026-11-30",
     "allowOffline": false
   }
 ]
