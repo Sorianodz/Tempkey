@@ -1,0 +1,14 @@
+[
+  {
+    "username": "softech",
+    "password": "20200220",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "username": "mourad",
+    "password": "12345678",
+    "expiresAt": "2025-6-30",
+    "allowOffline": false
+  }
+]
