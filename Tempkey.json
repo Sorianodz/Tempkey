@@ -63,11 +63,11 @@
     "allowOffline": true
   },
     {
-    "id": "id",
-    "username": "user",
-    "password": "pass",
+    "id": "caa0f70829231088",
+    "username": "amine",
+    "password": "12345678",
     "expiresAt": "2026-01-01",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "id",
