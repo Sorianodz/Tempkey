@@ -60,26 +60,26 @@
     "username": "user",
     "password": "name",
     "expiresAt": "2026-12-31",
-    "allowOffline": true
+    "allowOffline": false
   },
     {
     "id": "id",
     "username": "user",
     "password": "pass",
     "expiresAt": "2026-01-01",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "id",
     "username": "name",
     "password": "pass",
     "expiresAt": "2026-11-30",
-    "allowOffline": true
+    "allowOffline": false
   },
     {
     "id": "id",
     "username": "user",
     "password": "pass",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": false
 ]
