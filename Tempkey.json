@@ -10,7 +10,7 @@
     "id": "323aabdc678c6c5f",
     "username": "20200220",
     "password": "20200220",
-    "expiresAt": "2026-5-20",
+    "expiresAt": "2026-12-20",
     "allowOffline": true
   },
     {
@@ -42,10 +42,10 @@
     "allowOffline": true
     },
   {
-    "id": "id",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2026-12-31",
+    "id": "e66458d634dac3ed",
+    "username": "nassim31",
+    "password": "12345678",
+    "expiresAt": "2025-6-20",
     "allowOffline": false
   },
   {
@@ -82,5 +82,5 @@
     "password": "pass",
     "expiresAt": "2025-12-31",
     "allowOffline": false
-      },
+    },
 ]
