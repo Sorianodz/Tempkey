@@ -1,7 +1,7 @@
 [
   {
     "id": "57400d6ca3f025be",
-    "username": "123456",
+    "username": "12345",
     "password": "123456",
     "expiresAt": "2025-05-5",
     "allowOffline": true
@@ -120,10 +120,10 @@
     },
     {
     "id": "f677c56e657379b0",
-    "username": "ami31",
+    "username": "ami1",
     "password": "12345678",
     "expiresAt": "2025-6-5",
-    "allowOffline":false
+    "allowOffline":true
     },
   {
     "id": "b1cff0d699bc0832",
