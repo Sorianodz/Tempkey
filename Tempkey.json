@@ -4,7 +4,7 @@
     "username": "123456",
     "password": "123456",
     "expiresAt": "2025-05-5",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "323aabdc678c6c5f",
