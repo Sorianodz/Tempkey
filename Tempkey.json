@@ -119,55 +119,6 @@
     "allowOffline": true
     },
     {
-    "id": "2226659ea015c725",
-    "username": "Ibrahim",
-    "password": "123456789",
-    "expiresAt": "2025-7-9",
-    "allowOffline":true
-    },
-  {
-    "id": "b1cff0d699bc0832",
-    "username": "yacine",
-    "password": "12345678910",
-    "expiresAt": "2025-7-5",
-    "allowOffline": true
-    },
-{
-    "id": "4fb68ab47d6b7c66",
-    "username": "Mohamed",
-    "password": "123456789",
-    "expiresAt": "2025-7-5",
-    "allowOffline": true
-    },
-  {
-    "id": "47847d6a696b1484",
-    "username": "hamza",
-    "password": "123456789",
-    "expiresAt": "2025-7-5",
-    "allowOffline": true
-    },
-  {
-    "id": "4d6845d74d2255c5",
-    "username": "abidine31",
-    "password": "00000000",
-    "expiresAt": "2030-7-5",
-    "allowOffline": true
-    },
-    {
-    "id": "4c8cd79412d0769d",
-    "username": "brahim",
-    "password": "123456789",
-    "expiresAt": "2025-7-9",
-    "allowOffline": true
-    },
-      {
-    "id": "2226659ea015c725",
-    "username": "issam",
-    "password": "123456789",
-    "expiresAt": "2025-7-9",
-    "allowOffline": true
-    },
-    {
     "id": "dca7985aa1463d33",
     "username": "Rafik",
     "password": "199620",
