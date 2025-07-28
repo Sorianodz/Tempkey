@@ -49,13 +49,6 @@
     "allowOffline": true
     },
   {
-    "id": "e66458d634dac3ed",
-    "username": "nassim31",
-    "password": "12345678",
-    "expiresAt": "2025-06-20",
-    "allowOffline": true
-  },
-  {
     "id": "4e29b615632e3e95",
     "username": "melouk",
     "password": "12345678",
@@ -74,13 +67,6 @@
     "username": "amine",
     "password": "12345678",
     "expiresAt": "2026-01-01",
-    "allowOffline": true
-  },
-  {
-    "id": "539dd3b65461f6b9",
-    "username": "houari",
-    "password": "12345678",
-    "expiresAt": "2026-11-30",
     "allowOffline": true
   },
     {
@@ -108,20 +94,6 @@
     "id": "65119680a93df4ae",
     "username": "081087",
     "password": "081087",
-    "expiresAt": "2026-6-31",
-    "allowOffline": true
-    },
-  {
-    "id": "f30af94f3498a4d2",
-    "username": "yahia",
-    "password": "22041996",
-    "expiresAt": "2026-6-31",
-    "allowOffline": true
-    },
-    {
-    "id": "14d3973eaf09629d",
-    "username": "houari",
-    "password": "12345678",
     "expiresAt": "2026-6-31",
     "allowOffline": true
     },
