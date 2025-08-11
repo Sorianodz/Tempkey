@@ -69,6 +69,14 @@
     "expiresAt": "2026-01-01",
     "allowOffline": true
   },
+  
+    {
+    "id": "990582d24f922dae",
+    "username": "amine",
+    "password": "12345678",
+    "expiresAt": "2026-01-01",
+    "allowOffline": true
+  },
     {
     "id": "1439d05e7f6026f2",
     "username": "noor",
